@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986834374266",
+    "firebase_url": "https://book-a-seat-church-app.firebaseio.com",
+    "project_id": "book-a-seat-church-app",
+    "storage_bucket": "book-a-seat-church-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986834374266:android:b04537d08884b1ae8ef5c3",
+        "android_client_info": {
+          "package_name": "org.dcutwala.churchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986834374266-7rcnlnbfkvnqvcd1v11f0mihvkpkkdug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7CiKfQRFGTHOJsdWpUNG87Du6LEZ4YEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986834374266-7rcnlnbfkvnqvcd1v11f0mihvkpkkdug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
